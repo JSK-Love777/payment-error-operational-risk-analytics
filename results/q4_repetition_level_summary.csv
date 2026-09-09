@@ -1,0 +1,4 @@
+repetition_level,segment_count,segment_share_pct,avg_errors_per_error_card,repeat_error_card_share_pct,top_card_error_share_pct
+low-repeat,225,57.54,1.28,18.43,8.15
+mixed,66,16.88,1.67,30.85,12.28
+repeat-concentrated,100,25.58,4.67,50.39,24.66

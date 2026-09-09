@@ -1,0 +1,9 @@
+metric,value
+baseline_error_rate_pct,1.59
+minimum_eligible_transactions,601
+high_error_threshold_pct,2.1109
+outlier_threshold_pct,3.6282
+flagged_segment_count,391
+ordinary_high_error_segment_count,349
+outlier_segment_count,42
+flagged_weighted_error_rate_pct,2.83

@@ -1,0 +1,3 @@
+severity,segment_count,low_repeat_share_pct,mixed_share_pct,repeat_concentrated_share_pct,repeat_concentrated_avg_errors_per_error_card,repeat_concentrated_repeat_error_card_share_pct,repeat_concentrated_top_card_error_share_pct
+Ordinary High-Error,349,63.04,15.19,21.78,3.97,50.27,21.27
+Outlier,42,11.9,30.95,57.14,6.88,50.75,35.41

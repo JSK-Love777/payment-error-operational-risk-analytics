@@ -1,0 +1,4 @@
+payment_method,transaction_share_pct,error_rate_pct
+Swipe,52.36,1.49
+Chip,35.93,1.51
+Online,11.71,2.28
