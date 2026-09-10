@@ -11,7 +11,7 @@
 
 ## Executive Overview
 
-![Executive Overview](assets/01_executive_overview.png)
+[![Executive Overview](assets/01_executive_overview.png)](assets/01_executive_overview.png)
 
 The project screens unstable low-volume spikes before ranking risk. Using a minimum eligible segment size of **601 transactions**, the analysis isolates **391 high-error segments** with a weighted error rate of approximately **2.83%**, versus a **1.59%** baseline. Outliers are structurally more repeat-concentrated than ordinary high-error segments.
 
@@ -37,20 +37,19 @@ Customer aggregation can dilute localized card behavior, while payment-method vo
 
 ### 03 · High-Error Concentration
 
-![High-Error Concentration](assets/03_high_error_concentration.png)
+[![High-Error Concentration](assets/03_high_error_concentration.png)](assets/03_high_error_concentration.png)
 
 Q3 establishes a reliable screening population before prioritization: minimum `n`, distribution-based high-error/outlier thresholds, and MCC recurrence across operating conditions.
 
 ### 04 · Card-Level Error Structure
 
-![Card-Level Error Structure](assets/04_card_level_error_structure.png)
+[![Card-Level Error Structure](assets/04_card_level_error_structure.png)](assets/04_card_level_error_structure.png)
 
 Q4 distinguishes **investigation routing**. Low-repeat structures point first toward shared operating conditions; repeat-concentrated structures justify repeated-card and dominant-card review.
 
 ### 05 · Outlier Severity & Targeting
 
-![Outlier Severity & Targeting](assets/05_outlier_severity_targeting.png)
-
+[![Outlier Severity & Targeting](assets/05_outlier_severity_targeting.png)](assets/05_outlier_severity_targeting.png)
 Q5 distinguishes **investigation priority**. Among repeat-concentrated segments, Outliers show deeper repetition intensity and substantially higher top-card concentration.
 
 ---
