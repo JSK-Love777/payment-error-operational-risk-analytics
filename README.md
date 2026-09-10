@@ -31,7 +31,7 @@ The project screens unstable low-volume spikes before ranking risk. Using a mini
 
 ### 02 · Behavior Analysis
 
-![Behavior Analysis](assets/02_behavior_analysis.png)
+[![Behavior Analysis](assets/02_behavior_analysis.png)](assets/02_behavior_analysis.png)
 
 Customer aggregation can dilute localized card behavior, while payment-method volume alone does not identify operational priority.
 
