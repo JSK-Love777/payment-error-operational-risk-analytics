@@ -7,6 +7,10 @@
 
 [View Master SQL](sql/Payment_Error_Operational_Risk_Analytics.sql) · [Open Excel Validation](excel/Payment_Error_Operational_Risk_Analytics.xlsx) · [Download Power BI Report](powerbi/Payment_Error_Operational_Risk_Analytics.pbix)
 
+## Interactive Power BI Dashboard Demo
+
+https://github.com/user-attachments/assets/45b7a51c-2c51-43c9-bb79-a57debe88694
+
 ---
 
 ## Executive Overview
@@ -28,8 +32,6 @@ The project screens unstable low-volume spikes before ranking risk. Using a mini
 ---
 
 ## Dashboard Walkthrough
-
-https://github.com/user-attachments/assets/45b7a51c-2c51-43c9-bb79-a57debe88694
 
 ### Q1–Q2 · Behavior & Payment Method Analysis
 
