@@ -29,7 +29,7 @@ The project screens unstable low-volume spikes before ranking risk. Using a mini
 
 ## Dashboard Walkthrough
 
-[▶ Watch the full Power BI dashboard walkthrough](assets/powerbi_dashboard_walkthrough.mp4)
+https://github.com/user-attachments/assets/45b7a51c-2c51-43c9-bb79-a57debe88694
 
 ### Q2 · Behavior Analysis
 
