@@ -51,7 +51,7 @@ Q3 establishes a reliable screening population before prioritization: minimum `n
 
 Q4 distinguishes **investigation routing**. Low-repeat structures point first toward shared operating conditions; repeat-concentrated structures justify repeated-card and dominant-card review.
 
-### 05 · Outlier Severity & Targeting
+### Q5 · Outlier Severity & Targeting
 
 [![Outlier Severity & Targeting](assets/05_outlier_severity_targeting.png)](assets/05_outlier_severity_targeting.png)
 Q5 distinguishes **investigation priority**. Among repeat-concentrated segments, Outliers show deeper repetition intensity and substantially higher top-card concentration.
