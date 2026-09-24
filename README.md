@@ -31,19 +31,19 @@ The project screens unstable low-volume spikes before ranking risk. Using a mini
 
 https://github.com/user-attachments/assets/45b7a51c-2c51-43c9-bb79-a57debe88694
 
-### Q2 · Behavior Analysis
+### Q1–Q2 · Behavior & Payment Method Analysis
 
 [![Behavior Analysis](assets/02_behavior_analysis.png)](assets/02_behavior_analysis.png)
 
 Customer aggregation can dilute localized card behavior, while payment-method volume alone does not identify operational priority.
 
-### 03 · High-Error Concentration
+### Q3 · High-Error Concentration
 
 [![High-Error Concentration](assets/03_high_error_concentration.png)](assets/03_high_error_concentration.png)
 
 Q3 establishes a reliable screening population before prioritization: minimum `n`, distribution-based high-error/outlier thresholds, and MCC recurrence across operating conditions.
 
-### 04 · Card-Level Error Structure
+### Q4 · Card-Level Error Structure
 
 [![Card-Level Error Structure](assets/04_card_level_error_structure.png)](assets/04_card_level_error_structure.png)
 
